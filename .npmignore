@@ -1,0 +1,15 @@
+src/
+example/
+node_modules/
+*.map
+.git/
+.gitignore
+.claude/
+.vscode/
+*.md
+!README.md
+.impeccable.md
+eslint.config.js
+tsconfig*.json
+vite.config.ts
+public/
